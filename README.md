@@ -2,7 +2,7 @@ Let's examine the use case of parameter binding before the request reaches the c
 
 You can examine the differences between two cases of parameter binding: using an Interceptor and ArgumentResolver, and using an Annotation and AspectClass in this repository.
 
-This is what I thought.
+This is what I thought.<br>
 Basically, parameter binding is handled by Spring Framework's technical ability.
 So, the aspect type binding may have an overhead if we take too many requests.
 
